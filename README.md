@@ -1,5 +1,6 @@
 
 # 🚘 Car Rental Portal
+<img width="1883" height="889" alt="car-rental-portal" src="https://github.com/user-attachments/assets/30b32dd4-db50-42c5-ae01-c9e899b7940c" />
 
 Web-based car rental system built with **PHP** and **MySQL**, allowing users to browse and book cars, and enabling admins to manage vehicles, bookings, users, and more.
 
@@ -20,12 +21,16 @@ Web-based car rental system built with **PHP** and **MySQL**, allowing users to 
 ### 1. Guest Users
 - View available rental cars
 - Submit inquiries through the Contact Us page
+  
+<img width="1901" height="882" alt="Screenshot 2025-07-12 1450166" src="https://github.com/user-attachments/assets/7248a361-2dbd-45a9-9f8a-e0a8972fb973" />
 
 ### 2. Registered Users
 - Register, log in, and recover password
 - Book cars and view booking history
 - Update profile and change password
 - Post and view testimonials
+
+<img width="1870" height="899" alt="Screenshot 2025-07-12 1452333" src="https://github.com/user-attachments/assets/c56e348b-4240-490a-b9eb-d1562d3fd25e" />
 
 ### 3. Admin Panel
 - Manage vehicle brands and car listings
@@ -35,6 +40,11 @@ Web-based car rental system built with **PHP** and **MySQL**, allowing users to 
 - Update website pages and contact info
 - Manage subscribers and dashboard statistics
 - Change password and logout
+
+<img width="1919" height="1008" alt="Screenshot 2025-07-12 144554" src="https://github.com/user-attachments/assets/8ddf6fae-4b73-4185-9179-5fea4e897efa" />
+
+
+<img width="1902" height="897" alt="Screenshot 2025-07-12 1447066" src="https://github.com/user-attachments/assets/fee93f09-b492-4582-97fc-e94cb39bba00" />
 
 ---
 
